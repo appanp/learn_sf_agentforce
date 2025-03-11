@@ -4,12 +4,23 @@ Repo containing stuff for Agentforce learning
 Regular **Markdown** here.
 
 <!--
-@startuml firstDiagram
-
-Alice -> Bob: Hello
-Bob -> Alice: Hi!
-	
-@enduml
+@startmindmap
++ OS
+++ Ubuntu [[https://google.com link]]
++++ Linux Mint
++++ Kubuntu
++++ Lubuntu
++++ KDE Neon
+++ LMDE
+++ SolydXK
+++ SteamOS
+++ Raspbian
+-- Windows 95
+-- Windows 98
+-- Windows NT
+--- Windows 8
+--- Windows 10
+@endmindmap
 -->
 
 ![](firstDiagram.svg)
